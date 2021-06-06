@@ -1,0 +1,12 @@
+What is Data Structure?
+    -is a way in which data is stored on a computers.
+
+Why do we need DS ?
+    - Each DS allows data to be stored in specific manner.
+    - Data Structure allows efficient data search and retrieval.
+    - Specific Data structures are decided to work for specific problems.
+    - It allows to manage large amount of data such as large databases and indexing services such as hash table.
+
+Abstract Data Tyes(ADT):
+    - Entities that are definations of data and operations but do not have implementation details.
+    
