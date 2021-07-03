@@ -1,3 +1,4 @@
+//Easy
 class Solution {
 public:
     int check(vector<int>& nums,int target,int c){
