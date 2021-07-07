@@ -1,4 +1,6 @@
 //Easy
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int check(vector<int>& nums,int target,int c){
