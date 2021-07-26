@@ -1,15 +1,15 @@
 // class Solution {
 // public:
-//     int recursive(int n,int *array){
-//         if(n<=1){
-//             return 1;
-//         }
-//         if(array[n]>0) return array[n];
-//         int a=recursive(n-1,array);
-//         int b=recursive(n-2,array);
-//         array[n]=a+b;
-//         return a+b;
-//     }
+    // int recursive(int n,int *array){
+    //     if(n<=1){
+    //         return 1;
+    //     }
+    //     if(array[n]>0) return array[n];
+    //     int a=recursive(n-1,array);
+    //     int b=recursive(n-2,array);
+    //     array[n]=a+b;
+    //     return a+b;
+    // }
 //     int climbStairs(int n) {
 //         int[] array={0};
 //         return recursive(n,array);
