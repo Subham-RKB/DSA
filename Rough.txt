@@ -221,4 +221,14 @@ aabcc     dbbca
 
 3*(3-1)
 
+//Word Break
+leetcode -> leet,Code
+
+applepenapple -> apple,pen
+
+l -x
+le -x
+lee -x
+leet -ok
+dp=[1,0,0,1,0,0,0]
 
