@@ -244,3 +244,14 @@ dp=[1,0,0,1,0,0,0]
 1
 1
 2
+
+//Hacker Rank
+maximum rectangle
+observation:
+
+5
+11 11 10 10 10 -> 50
+
+5
+1 3 5 9 11 -> 18
+

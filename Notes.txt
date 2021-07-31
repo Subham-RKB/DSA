@@ -22,7 +22,13 @@ Cyclic Graph.
 
 Every complete graph is regular.
 
+FB- Undirected Graph
+Twitter/Insta - Directed Graph
 
+Representation of graph:
+    -Adjacency list
+
+    -Adjacency Matrix 
 
 
 
