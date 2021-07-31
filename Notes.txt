@@ -10,3 +10,32 @@ Why do we need DS ?
 Abstract Data Tyes(ADT):
     - Entities that are definations of data and operations but do not have implementation details.
     
+//Graph Theory unacademy - (Sonia Motwani)
+A graph is a non-linear data structure consistiing of nodes and edges. The npdes are smetimes also referred to as vertices and the edges are lines or arcs that connect any 
+two nodes.
+Connected Graph
+Regular Graph = All node has same degree
+Complete Graph = Every node is connected to all others nodes.
+Cycle Graph = A graph in which the graph is a cycle in itself
+the degree of each vertex is 2.
+Cyclic Graph.
+
+Every complete graph is regular.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
