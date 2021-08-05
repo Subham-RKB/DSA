@@ -344,6 +344,33 @@ chess
 [1,3]=3
 [1,3,5]=5
 
+//Leet COde Stone Game
+even numbers 
++ve 
+
+most stones
+total is always odd
+
+7,100,3,5
+100,3,5
+8,100,3
+105
+
+5,3,4,5
+
+7,8,10,6,4,8,9,9
+Sum of 4 numbers but can only take 1st or last element.
+7+9+4+10
+9+3+8+6
+
+
+
+
+
+
+
+
+
 
 
 
