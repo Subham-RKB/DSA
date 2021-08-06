@@ -363,6 +363,23 @@ Sum of 4 numbers but can only take 1st or last element.
 7+9+4+10
 9+3+8+6
 
+5,3,4,5
+n=4
+pii=5,0
+
+
+//Maximum Product
+2,3,-2,4,5
+a=1
+1*2,2
+2
+ans=2
+2*3,3
+ans=6
+
+
+
+
 
 
 
