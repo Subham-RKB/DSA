@@ -377,6 +377,13 @@ ans=2
 2*3,3
 ans=6
 
+//Code Chef
+//Special Triplets
+1,2,3
+
+1,2,3,4
+
+
 
 
 
