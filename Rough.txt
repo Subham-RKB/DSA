@@ -383,7 +383,19 @@ ans=6
 
 1,2,3,4
 
+//LeetCode
 
+ss=""
+0 to 7
+leeetcode
+i=0
+ss=l
+i=1
+ss=l+e
+ss=l+e+e
+i=2
+
+//LeetCode Weekly Contest
 
 
 
