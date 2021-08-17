@@ -13,28 +13,29 @@ int main(){
             int a;
             char c;
             cin>>c>>a;
-            if(ma.size()>m){
+            
+            if(c=='+'){
+                //if(ma.find(a)==ma.end()){
+                    ma.insert(a);
+                    if(ma.size()>m){
                 in=1;
                 //break;
             }
-            if(c=='+'){
-                if(ma.find(a)==ma.end() && mb.find(a)==mb.end()){
-                    ma.insert(a);
-                    mb.insert(a);
-                }
-                else{
-                    in=1;
-                    //break;
-                }
+                    //mb.insert(a);
+                //}
+                // else{
+                //     in=1;
+                //     //break;
+                // }
             }
             else if(c=='-'){
                 if(ma.find(a)==ma.end()){
                     in=1;
                     //break;
                 }
-                else{
-                    ma.erase(a);
-                }
+                 else{
+                     ma.erase(a);
+                 }
             }
         }
         if(in){
