@@ -1,0 +1,1 @@
+{"name":"Local: RandomQue1","url":"d:\\DSA\\Questions\\RandomQue1.cpp","tests":[{"id":1630391296089,"input":"5\n-4 1 3 4 7\n1 2\n1 3\n3 4\n4 5","output":"-4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\RandomQue1.cpp","group":"local","local":true}
