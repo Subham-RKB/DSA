@@ -1,0 +1,1 @@
+{"name":"Local: Sep_LT_QA","url":"d:\\DSA\\Questions\\Code Chef\\Sep_LT_QA.cpp","tests":[{"id":1632577297682,"input":"3\n2\n4\n8","output":"NO\nYES\n1 4\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Chef\\Sep_LT_QA.cpp","group":"local","local":true}
