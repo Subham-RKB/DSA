@@ -23,7 +23,25 @@ typedef pair<int,int>   pii;
 typedef vector<pii>     vpii; 
 
 void solve(){
-    
+    string s;
+    cin>>s;
+    int a=0;
+    int b=0;
+    rep(i,s.length()){
+        if(s[i]=='.'){
+            cout<<0;
+        }
+        else if(s[i]=='-'&&s[i+1]=='.'){
+            cout<<1;
+            i++;
+        }
+        else if(s[i]=='-' && s[i+1]=='-'){
+            cout<<2;
+            i++;
+        }
+    }
+    cout<<endl;
+
 }
 
 int main(){

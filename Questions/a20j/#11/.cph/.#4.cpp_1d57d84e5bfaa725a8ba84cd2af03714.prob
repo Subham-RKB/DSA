@@ -1,0 +1,1 @@
+{"name":"Local: #4","url":"d:\\DSA\\Questions\\a20j\\#11\\#4.cpp","tests":[{"id":1633157401859,"input":".-.--\n--.\n-..-.--","output":"012\n20\n1012"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\a20j\\#11\\#4.cpp","group":"local","local":true}
