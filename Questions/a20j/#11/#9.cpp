@@ -23,7 +23,21 @@ typedef pair<int,int>   pii;
 typedef vector<pii>     vpii; 
 
 void solve(){
-    
+    string n;
+    cin>>n;
+    ll a=0;
+    ll i=0;
+    for(int i=0;i<n.length();i++){
+        if(n[i]=='4' || n[i]=='7'){
+            a++;
+        }
+    }
+    if(a==4 || a==7){
+        cout<<"YES";
+    }
+    else{
+        cout<<"NO";
+    }
 }
 
 int main(){
