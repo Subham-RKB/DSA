@@ -23,23 +23,7 @@ typedef pair<int,int>   pii;
 typedef vector<pii>     vpii; 
 
 void solve(){
-    ll n; double m;
-    cin>>n>>m;
-    ll a=0;
-    ll b;
-    double ans=0;
-    ll ans1=n;
-    rep(i,n){
-        cin>>b;
-        if(b>m){
-            if(ceil(b/m)>=ans){
-                ans=ceil(b/m);
-                ans1=i+1;
-            }
-        }
-    }
-    cout<<ans1<<endl;
-
+    
 }
 
 int main(){
