@@ -1,1 +1,1 @@
-{"name":"Local: template","url":"d:\\DSA\\template.cpp","tests":[{"id":1634138698153,"input":"5 2\n1 3 1 4 2\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\template.cpp","group":"local","local":true}
+{"name":"Local: template","url":"d:\\DSA\\template.cpp","tests":[{"id":1634138698153,"input":"5 2\n1 3 1 4 2","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\template.cpp","group":"local","local":true}
