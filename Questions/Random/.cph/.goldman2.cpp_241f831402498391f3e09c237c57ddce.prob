@@ -1,1 +1,1 @@
-{"name":"Local: goldman2","url":"d:\\DSA\\Questions\\Random\\goldman2.cpp","tests":[{"id":1635073065868,"input":"hello","output":"hel\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Random\\goldman2.cpp","group":"local","local":true}
+{"name":"Local: goldman2","url":"d:\\DSA\\Questions\\Random\\goldman2.cpp","tests":[{"id":1635073065868,"input":"hello","output":"hel"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Random\\goldman2.cpp","group":"local","local":true}
