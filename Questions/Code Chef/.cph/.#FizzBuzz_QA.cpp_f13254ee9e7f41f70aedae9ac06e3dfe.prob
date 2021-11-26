@@ -1,0 +1,1 @@
+{"name":"Local: #FizzBuzz_QA","url":"d:\\DSA\\Questions\\Code Chef\\#FizzBuzz_QA.cpp","tests":[{"id":1637940779127,"input":"4\n1 2 1\n3 -5 2\n-9 -6 3\n-18 12 5","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Chef\\#FizzBuzz_QA.cpp","group":"local","local":true}
