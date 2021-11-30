@@ -1,0 +1,1 @@
+{"name":"Local: C_O_D_E_R_S_QC","url":"d:\\DSA\\Questions\\Code Chef\\C_O_D_E_R_S_QC.cpp","tests":[{"id":1638205841514,"input":"3\n3 0 -1\n111\n4 2 0\n1101\n2 0 1\n00\n","output":"YES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Chef\\C_O_D_E_R_S_QC.cpp","group":"local","local":true}
