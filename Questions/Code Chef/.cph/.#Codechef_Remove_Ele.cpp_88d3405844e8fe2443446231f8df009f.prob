@@ -1,0 +1,1 @@
+{"name":"Local: #Codechef_Remove_Ele","url":"d:\\DSA\\Questions\\Code Chef\\#Codechef_Remove_Ele.cpp","tests":[{"id":1638714203239,"input":"1\nccbdacbbcadbcc\n","output":"ab\ngcc\nabccba\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Chef\\#Codechef_Remove_Ele.cpp","group":"local","local":true}

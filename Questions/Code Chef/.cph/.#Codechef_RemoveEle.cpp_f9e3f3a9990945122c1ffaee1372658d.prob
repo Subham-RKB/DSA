@@ -1,0 +1,1 @@
+{"name":"Local: #Codechef_RemoveEle","url":"d:\\DSA\\Questions\\Code Chef\\#Codechef_RemoveEle.cpp","tests":[{"id":1638713444603,"input":"3\n1 3\n1\n3 3\n2 2 2\n4 7\n1 4 3 5\n","output":"YES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Chef\\#Codechef_RemoveEle.cpp","group":"local","local":true}
