@@ -1,0 +1,1 @@
+{"name":"Local: client","url":"d:\\DSA\\Rough\\client.c","tests":[{"id":1638939050993,"input":"11\n11010111011","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Rough\\client.c","group":"local","local":true}
