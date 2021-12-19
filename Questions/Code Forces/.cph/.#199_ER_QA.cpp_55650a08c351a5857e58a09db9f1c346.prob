@@ -1,0 +1,1 @@
+{"name":"Local: #199_ER_QA","url":"d:\\DSA\\Questions\\Code Forces\\#199_ER_QA.cpp","tests":[{"id":1639842232813,"input":"4\nEEE\nEN\nENNEENE\nNENN\n","output":"YES\nNO\nYES\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Forces\\#199_ER_QA.cpp","group":"local","local":true}
