@@ -1,0 +1,1 @@
+{"name":"Local: #DEC_LT_QA","url":"d:\\DSA\\Questions\\Code Chef\\#DEC_LT_QA.cpp","tests":[{"id":1640442747712,"input":"3\n3\n1 1 3\n5\n3 4 4 1 2\n5\n23 17 21 18 19\n","output":"2\n12\n126\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Chef\\#DEC_LT_QA.cpp","group":"local","local":true}
