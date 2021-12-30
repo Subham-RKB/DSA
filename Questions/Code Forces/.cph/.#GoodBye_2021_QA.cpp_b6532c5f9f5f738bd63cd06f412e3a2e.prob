@@ -1,0 +1,1 @@
+{"name":"Local: #GoodBye_2021_QA","url":"d:\\DSA\\Questions\\Code Forces\\#GoodBye_2021_QA.cpp","tests":[{"id":1640792418685,"input":"4\n4\n1 1 2 2\n3\n1 2 3\n2\n0 0\n3\n-1 -1 1","output":"4\n3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Forces\\#GoodBye_2021_QA.cpp","group":"local","local":true}
