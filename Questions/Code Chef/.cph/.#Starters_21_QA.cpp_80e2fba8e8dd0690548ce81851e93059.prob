@@ -1,0 +1,1 @@
+{"name":"Local: #Starters_21_QA","url":"d:\\DSA\\Questions\\Code Chef\\#Starters_21_QA.cpp","tests":[{"id":1641394358038,"input":"3\n3\n1 2 3\n4\n1 1 3 3\n5\n1 1000000000 1 1000000000 1","output":"0\n4\n500000002"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Chef\\#Starters_21_QA.cpp","group":"local","local":true}
