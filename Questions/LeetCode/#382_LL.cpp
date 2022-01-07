@@ -23,7 +23,6 @@ public:
     int getRandom() {
         ListNode *temp=head;
         int randNum = rand()%((tot-1) + 1) +1;
-        //cout<<randNum<<endl;
         randNum--;
         while(randNum--){
             temp=temp->next;
