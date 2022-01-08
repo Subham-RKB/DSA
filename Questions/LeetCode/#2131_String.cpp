@@ -5,7 +5,7 @@ public:
         vector<int> v(300,0);
         int k=0;
         int y=0;
-        //cout<<int('z')<<endl;
+
         for(auto& a:words){
             int x = int(a[0]);
             int y = int(a[1]);
