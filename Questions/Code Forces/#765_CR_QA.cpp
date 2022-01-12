@@ -47,9 +47,6 @@ void solve(){
             a>>=1;
         }
     }
-    // for(int i=0;i<v.size();i++){
-    //     cout<<v[i]<<" ";
-    // }
     l=0;
     ll ans=0;
     ll k=0;
