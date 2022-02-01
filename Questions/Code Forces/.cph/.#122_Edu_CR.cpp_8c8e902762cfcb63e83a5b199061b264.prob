@@ -1,0 +1,1 @@
+{"name":"Local: #122_Edu_CR","url":"d:\\DSA\\Questions\\Code Forces\\#122_Edu_CR.cpp","tests":[{"id":1643640019485,"input":"3\n42\n23\n377\n","output":"42\n28\n777\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Forces\\#122_Edu_CR.cpp","group":"local","local":true}
