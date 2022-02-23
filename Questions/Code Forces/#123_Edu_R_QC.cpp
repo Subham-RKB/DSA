@@ -21,7 +21,7 @@ typedef map<int, int> mii;
 typedef map<string, int> msi;
 typedef pair<int, int> pii;
 typedef vector<pii> vpii;
-ll maximumSubarraySum(vector<ll>& arr, ll k, ll x)
+ll helper(vector<ll>& arr, ll k, ll x)
 {
     ll n = arr.size();
     ll maxSum = LONG_MIN;
