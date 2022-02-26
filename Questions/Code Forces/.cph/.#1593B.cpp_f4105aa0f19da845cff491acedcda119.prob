@@ -1,0 +1,1 @@
+{"name":"Local: #1593B","url":"d:\\DSA\\Questions\\Code Forces\\#1593B.cpp","tests":[{"id":1645848409445,"input":"5\n100\n71345\n3259\n50555\n2050047","output":"0\n3\n1\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Forces\\#1593B.cpp","group":"local","local":true}
