@@ -1,0 +1,1 @@
+{"name":"Local: #777_CF_QA","url":"d:\\DSA\\Questions\\Code Forces\\#777_CF_QA.cpp","tests":[{"id":1647009839855,"input":"5\n1\n2\n3\n4\n5","output":"1\n2\n21\n121\n212"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Forces\\#777_CF_QA.cpp","group":"local","local":true}
