@@ -18,7 +18,7 @@ public:
         int first=0;
         for(int a:nums)
         {
-            if(a& (1<<bit))
+            if(a & (1<<bit))
             {
                 first^=a;
             }
