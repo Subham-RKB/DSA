@@ -25,7 +25,7 @@ public:
             int mid = (h+l)/2;
             if(helper(weights,days,mid))
             {
-                l = mid+1;
+                l = mid+r1;
             }
             else{
                 h = mid;
