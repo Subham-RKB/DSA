@@ -1,0 +1,1 @@
+{"name":"Local: kickstart_2022_R2_QA","url":"d:\\DSA\\kickstart_2022_R2_QA.cpp","tests":[{"id":1650755212440,"input":"3\n1 1\n*\n2 2\n**\n*#\n3 4\n****\n*#*#\n****","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\kickstart_2022_R2_QA.cpp","group":"local","local":true}
