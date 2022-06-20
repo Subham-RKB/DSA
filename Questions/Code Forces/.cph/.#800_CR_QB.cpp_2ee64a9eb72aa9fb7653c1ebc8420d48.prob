@@ -1,0 +1,1 @@
+{"name":"Local: #800_CR_QB","url":"d:\\DSA\\Questions\\Code Forces\\#800_CR_QB.cpp","tests":[{"id":1655392491587,"input":"5\n1\n1\n2\n01\n3\n100\n4\n1001\n5\n11111\n","output":"1\n3\n4\n8\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Questions\\Code Forces\\#800_CR_QB.cpp","group":"local","local":true}
