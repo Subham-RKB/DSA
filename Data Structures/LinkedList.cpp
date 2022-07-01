@@ -254,11 +254,9 @@ do
         break;
 
     case 4:
-
         cout << "Delete Node By Key Operation - \nEnter key of the Node to be deleted: " << endl;
         cin >> k1;
         s.deleteNodeByKey(k1);
-
         break;
     case 5:
         cout << "Update Node By Key Operation - \nEnter key & NEW data to be updated" << endl;
